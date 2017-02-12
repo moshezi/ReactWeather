@@ -28,12 +28,12 @@ Install modules
 
 Run Server
 
-> node server.js
+> $ node server.js
 
 
 Run webpack
 
-> webpack -w
+> $ webpack -w
 
 
 OR/AND
