@@ -5,9 +5,10 @@
 
 A Weather Application, where a user can:
 
-Search for current weather by city.
+- Search for current weather by city.
 
-Select an example location city to try out.
+- Select an example location city to try out.
+
 
 **Dependencies**
  
@@ -39,5 +40,3 @@ Run webpack
 OR/AND
 
 View live [here on Heroku](http://weatherapp-moshe.herokuapp.com/)
-
-
